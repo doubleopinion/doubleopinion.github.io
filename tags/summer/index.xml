@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>summer on doubleopinion.com</title>
+    <link>https://www.doubleopinion.com/tags/summer/</link>
+    <description>Recent content in summer on doubleopinion.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Oct 2018 11:40:11 +0200</lastBuildDate><atom:link href="https://www.doubleopinion.com/tags/summer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eighth</title>
+      <link>https://www.doubleopinion.com/posts/eighth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
+      
+      <guid>https://www.doubleopinion.com/posts/eighth/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
+    </item>
+    
+  </channel>
+</rss>
